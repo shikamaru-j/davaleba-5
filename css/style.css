@@ -1,10 +1,5 @@
-.test1 {float: left;}
-.test2 {float:right}
-.clear {clear: both}
-.left-box {width: 536px; background: #707070; float: left;}
-.right-box {width: 536px; background: #707070; float: left;}
-.img-block {float: left;}
-.satauri {float: left; margin-left: 16px;}
-.satauri2 {float:left; margin-left: 16px;}
-.paragrafi {float: left; width: 260px; margin-left: 16px;}
 .sataurih1 {font-size: 42px; font-weight: 100px;}
+.box-1 {width: 536px; background-color: #F8F8F8; float: left;}
+.box-2 {width: 536px; background-color:  #F8F8F8; float: right;} 
+.image-box {float: left;}
+.text-box {float: left; width: 260px; margin-left: 16px;}
