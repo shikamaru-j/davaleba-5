@@ -3,7 +3,7 @@
 .box-2 {width: 536px; background-color:  #F8F8F8; float: left; margin-left: 16px;} 
 .image-box {float: left;}
 .text-box {float: left; width: 260px; margin-left: 16px;}
-.line-1 {margin-top: 268px;}
+.line-1 {margin-top: 268px; padding-bottom: 16px;}
 .mini-satauri { margin-left: 163px; margin-top: 103px;}
 .box-heder-2 {width: 465px; margin-left: 163px; margin-top: 90px;padding-bottom: 163px; font-weight: bold;}
 .line-3 {width: 1101px; margin-left: 163px; height: 390px;}
@@ -21,6 +21,12 @@
 .delicius {padding-left: 72px; padding-top: 5px;}
 .getting {padding-left: 91px; padding-top: 5px;}
 .hed {font-size: 42px; font-weight: bold;}
+.size-1 {font-size: 18px; padding-top: 0px;}
+.food-1 {margin-top: 36px;}
+.dezert-1 {margin-top: 36px;}
+.first-p {padding-top: 10px; color: #B1B1B1;}
+
+
 
 /*base classes*/
 .f-left {float: left;}
