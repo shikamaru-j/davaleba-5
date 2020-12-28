@@ -1,10 +1,11 @@
-.sataurih1 {font-size: 42px; font-weight: 100px; width: 510px; margin-left: 163px;margin-top: 103px;}
+.sataurih1 {font-size: 42px; font-weight: 100px; width: 510px; margin-left: 163px;}
+.box-heder-1 {margin-bottom: 50px;margin-top: 82px; margin-bottom: 50px}
 .box-1 {width: 536px; background-color: #F8F8F8; float: left; margin-left: 163px;}
 .box-2 {width: 536px; background-color:  #F8F8F8; float: left; margin-left: 16px;} 
 .image-box {float: left;}
 .text-box {float: left; width: 260px; margin-left: 16px;}
-.line-1 {margin-top: 268px; padding-bottom: 16px;}
-.mini-satauri { margin-left: 163px; margin-top: 103px;}
+.line-1 { padding-bottom: 16px;}
+.mini-satauri { margin-left: 163px; }
 .box-heder-2 {width: 465px; margin-left: 163px; margin-top: 90px;padding-bottom: 163px; font-weight: bold;}
 .line-3 {width: 1101px; margin-left: 163px; height: 390px;}
  .box-3 {float: left; width: 359px; background-color: #F8F8F8;}
@@ -25,6 +26,8 @@
 .food-1 {margin-top: 36px;}
 .dezert-1 {margin-top: 36px;}
 .first-p {padding-top: 10px; color: #B1B1B1;}
+.font {font-family: 'Poppins', sans-serif;}
+
 
 
 
