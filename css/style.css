@@ -1,5 +1,21 @@
-.sataurih1 {font-size: 42px; font-weight: 100px;}
-.box-1 {width: 536px; background-color: #F8F8F8; float: left;}
-.box-2 {width: 536px; background-color:  #F8F8F8; float: right;} 
+.sataurih1 {font-size: 42px; font-weight: 100px; width: 510px; margin-left: 163px;margin-top: 103px;}
+.box-1 {width: 536px; background-color: #F8F8F8; float: left; margin-left: 163px;}
+.box-2 {width: 536px; background-color:  #F8F8F8; float: left; margin-left: 16px;} 
 .image-box {float: left;}
 .text-box {float: left; width: 260px; margin-left: 16px;}
+.line-1 {margin-top: 268px;}
+.mini-satauri { margin-left: 163px; margin-top: 103px;}
+.box-heder-2 {width: 465px;}
+.line-3 {width: 1101px; margin-left: 163px;}
+ .box-3 {float: left; width: 359px; background-color: #F8F8F8;}
+ .box-4 {float: left; width: 359px;}
+.box-5 {float: left; width: 359px;}
+.p-size {width: 253px;}
+.blue {color: #5863F8; }
+.bold {font-weight: bold;}
+.p-style {color: #B1B1B1;}
+
+/*base classes*/
+.f-left {float: left;}
+.f-rigth {float: right;}
+.clear {clear: both;}
